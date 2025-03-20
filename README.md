@@ -4,7 +4,7 @@ This project demonstrate my learning in TypeScript by implementing sorting algor
 
 The software showcase both sorting algorithms and includes asynchronous functionality to simulate sorting with a delay. I also used Jest to write tests and ensure the algorithms work correctly. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/N6sDPGtSuTE)
 
 # Development Environment
 

@@ -18,7 +18,7 @@ class Sorting {
         return quickSort(this.list)
     }
 
-    // Async sorting function
+    // Async sorting function simulates a delay of 1 second
     async asyncSort(useQuickSort: boolean = false): Promise<number[]> {
         return new Promise((resolve) => {
             setTimeout(() => {
